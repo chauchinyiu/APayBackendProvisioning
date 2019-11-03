@@ -1,0 +1,6 @@
+module Pods_APayBackendProvisioning {
+  umbrella header "Pods-APayBackendProvisioning-umbrella.h"
+
+  export *
+  module * { export * }
+}
